@@ -1,2 +1,2 @@
 # newdelta_project
-it is good enough while doing my best
+it is good enough while doing my best.
